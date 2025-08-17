@@ -1,5 +1,6 @@
 # Nova-Noah
 
+# Nova-Noah
 Utilities and notebooks I’m building while leveling up from hands-on IT & business ops into Python-powered automation and pattern recognition.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joew03189/nova-noah/blob/main/NOAH.ipynb)
