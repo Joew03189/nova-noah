@@ -27,3 +27,10 @@ Utilities and notebooks I’m building while leveling up from hands-on IT & busi
 
 ## Notes
 API keys are never committed to the repo. Use environment variables/Colab secrets.
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Connect
+- 📄 [Indeed Profile](https://profile.indeed.com/p/joew-6866msh)
+- 📧 [Email Me](joew03189@gmail.com)  
+- 🌐 LinkedIn update coming soon
