@@ -1,5 +1,9 @@
 # Nova-Noah
-
+**Joe Williams**  
+Baton Rouge, LA  
+📞 (225) 519-6280  
+📧 [joew03189@gmail.com](mailto:joew03189@gmail.com)  
+**GitHub:** [github.com/Joew03189/nova-noah](https://github.com/Joew03189/nova-noah)
 # Nova-Noah
 Utilities and notebooks I’m building while leveling up from hands-on IT & business ops into Python-powered automation and pattern recognition.
 
