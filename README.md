@@ -32,5 +32,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Connect
 - 📄 [Indeed Profile](https://profile.indeed.com/p/joew-6866msh)
-- 📧 [Email Me](joew03189@gmail.com)  
+- - 📧 [Email Me](mailto:joew03189@gmail.com)
 - 🌐 LinkedIn update coming soon
